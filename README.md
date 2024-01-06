@@ -1,4 +1,4 @@
-# 4WheelDrive-LIDAR_Gazebo
+# 4WheelDrive_Gazebo_using_ROS
 The repo contains a description folder which has files necesary for simulating a 4-wheeled differential skid steer drive robot in Gazebo. Src folder contains launch, urdf and mesh files. Universal Robot Description File (URDF) contains XACRO files necessary for describing joint and link parameters, while launch files contain display parameters for both RVIZ and Gazebo. The folder has been generated after creating a model in fusion 360 and converting it using URDF exporter.
 ## Distribution and Packages
 Please note that ROS1 with melodic distribution has been used. Kindly alter your packages according to the distribution being used.

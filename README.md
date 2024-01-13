@@ -13,3 +13,6 @@ For RVIZ Visualization, run: **roslaunch mybody_description display.launch**
 ## Pre-requisites 
 Note that you require a build tool (catkin in this case) and ros distribution to run these files. Gazebo must be installed, which you can do from [here](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwi5peby9siDAxWOxgIHHToVD7YQFnoECBIQAQ&url=https%3A%2F%2Fclassic.gazebosim.org%2Ftutorials%3Ftut%3Dinstall_ubuntu&usg=AOvVaw2pD1-zHYHUQ2AOo8zHRB5s&opi=89978449). I have used Gazebo 9 version for the ske of this project
 
+## Contribution
+Contributed towards simlifying CAD model for generating URDF files, adding a Lidar in gazebo for mapping in RViz
+
